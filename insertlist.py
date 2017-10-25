@@ -21,6 +21,6 @@ def insertList(list1,elements,pos = 1):
         insertList(list1,elements,pos)
 
 lst = [1,2,3,4,5,6,7]
-elements = 8
+elements = 5
 insertList(lst,elements)
 print('The New list = ',lst)
