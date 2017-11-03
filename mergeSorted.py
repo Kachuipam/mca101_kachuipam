@@ -28,7 +28,7 @@ def mergeList(list1,list2,list3[],count1 = 0,count2 = 0):
     return mergeList(list1,list2,list3,count1,count2)
         
             
-list1 = [1,5,6]
-list2 = [3,9]
+list1 = [32,54,76]
+list2 = [23,59]
 list3 = mergeList(list1,list2,list3)
 print(list3)
