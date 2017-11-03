@@ -30,5 +30,5 @@ def mergeList(list1,list2,list3=[],count1 = 0,count2 = 0):
             
 list1 = [32,54,76]
 list2 = [23,59]
-list3 = mergeList(list1,list2,list3)
+list3 = mergeList(list1,list2)
 print(list3)
