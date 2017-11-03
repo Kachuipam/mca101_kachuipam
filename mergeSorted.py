@@ -1,6 +1,6 @@
 #import pdb
 
-def mergeList(list1,list2,list3[],count1 = 0,count2 = 0):
+def mergeList(list1,list2,list3=[],count1 = 0,count2 = 0):
     #pdb.set_trace()
     '''
     Objective: To merge two sorted list
